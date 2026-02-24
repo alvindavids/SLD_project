@@ -1,0 +1,5 @@
+{
+  "name": "SignSpeak AI",
+  "description": "Real-time sign language translation using Gemini AI",
+  "requestFramePermissions": ["camera", "microphone"]
+}
